@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://github.com/mgerasolo/admin/wiki
+    about: Check the docs first
+  - name: Discussions
+    url: https://github.com/mgerasolo/admin/discussions
+    about: For questions and general discussion
